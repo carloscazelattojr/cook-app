@@ -19,7 +19,7 @@
  
 <div align="center">
   <a href="#">
-      <img src="https://github.com/carloscazelattojr/cook-app/blob/main/src/asset/print-app.png" width="200" alt="preview" />
+      <img src="https://github.com/carloscazelattojr/cook-app/blob/main/assets/print-app.png" width="200" alt="preview" />
       
   </a>
 </div>
