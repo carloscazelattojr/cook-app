@@ -4,7 +4,7 @@
   <h1 align="center">Cook App</h1>
 </div>
 <p align="center">
-      App de receitas
+      😋🥗🍎 Cook-App que sugere receitas baseadas nos ingredientes selecionados.
     <br />
  </p>
 
@@ -14,6 +14,8 @@
 - React Native
 - Supabase
 - React Native Reanimated
+- Expo-Router
+- Expo
 
  
  
